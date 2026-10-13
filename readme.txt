@@ -50,6 +50,7 @@ again triggering
 triggering poll SCM
 
 again triggering
+updated this for jenkins triggers
 
 again modified
 implementing github webhook trigger
